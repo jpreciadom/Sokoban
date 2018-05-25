@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1522199399 source:c:\users\name\desktop\snake\snake\main.cpp
+	<curses.h>
+
+1521766426 c:\users\name\desktop\snake\snake\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1523464815 source:c:\users\juan diego\desktop\juan diego\trabajos\programación\snake\main.cpp
+	<curses.h>
+	<random>
+	<iostream>
+
+1521755626 c:\users\juan diego\desktop\juan diego\trabajos\programación\snake\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1527096131 source:c:\users\juan diego\desktop\juan diego\trabajos\programación\sokoban\main.cpp
+	<curses.h>
+
+1524685902 c:\users\juan diego\desktop\juan diego\trabajos\programación\sokoban\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1524769118 source:c:\users\kmili\desktop\sokoban\main.cpp
+	<iostream>
+	<curses.h>
+	<random>
+
+1524685902 c:\users\kmili\desktop\sokoban\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
